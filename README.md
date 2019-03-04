@@ -22,3 +22,5 @@ Course Data structures December 2018 - SoftUni. Custom implementations of the mo
 10. Hash Tables - Sets and Dictionaries
 
 11. Combaning Data Structures
+
+  Final Exam: 24 February 2019 - 257/300 points
