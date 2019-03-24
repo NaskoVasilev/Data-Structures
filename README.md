@@ -24,3 +24,6 @@ Course Data structures December 2018 - SoftUni. Custom implementations of the mo
 11. Combaning Data Structures
 
   Final Exam: 24 February 2019 - 257/300 points
+  
+  Retake Exam - 10 March 2019 - 285/300 points
+  
